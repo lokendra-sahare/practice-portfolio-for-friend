@@ -21,7 +21,7 @@ export const Projects = () => {
       id: 2,
       title: "Tic Tac Toe Game",
       description: "Tic-Tac-Toe game using HTML, CSS, JavaScript",
-      link: "https://great-food-swiggy.netlify.app",
+      link: "https://the-tic-tac-toe-web-game.netlify.app",
       imgUrl:
         "https://t3.ftcdn.net/jpg/02/30/17/96/240_F_230179611_I3Q27sJayLpk6rqyIgjU4nsXuRvY1dn9.jpg",
     },
